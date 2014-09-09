@@ -141,6 +141,19 @@
       ]
     },
     {
+      "user_name": "Don Kehn",
+      "ldap_id": "dekehn",
+      "companies": [
+        {
+          "company_name": "Norio",
+          "end_date": null
+        }
+      ],
+      "emails": [
+        "dekehn@gmail.com"
+      ]
+    },
+    {
       "ldap_id": "dfarrell07",
       "user_name": "Daniel Farrell",
       "companies": [
@@ -199,6 +212,20 @@
       "emails": [
         "ff@member.org",
         "ffernand@redhat.com"
+      ]
+    },
+    {
+      "ldap_id": "gzhao",
+      "user_name": "George Zhao",
+      "companies": [
+        {
+          "company_name": "Huawei",
+          "end_date": null
+        }
+      ],
+      "emails": [
+        "george.zhao@gmail.com",
+        "george.y.zhao@huawei.com"
       ]
     },
     {
